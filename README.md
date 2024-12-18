@@ -14,4 +14,5 @@ This is a partial or pseudo-clone (for personal usage) of W3C's [**_RDF Turtle_*
 - LICENSE.md
 
 And then W3C's Document license instructs me to notify that:
+
 _"Copyright © 2023 W3C®. This software or document includes material copied from or derived from the [_Specification 'rdf-turtle'_ deliverables repository](../../../../w3c/rdf-turtle)."_
