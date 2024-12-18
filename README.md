@@ -1,6 +1,6 @@
 # w3c-clone-rdf-turtle
 
-This is a partial or pseudo-clone (for personal usage) of W3C's [**_RDF Turtle_** deliverables repository](../w3c/rdf-turtle). I've only copied a few files from a few of that repository's commits:
+This is a partial or pseudo-clone (for personal usage) of W3C's [**_RDF Turtle_** deliverables repository](../../w3c/rdf-turtle). I've only copied a few files from a few of that repository's commits:
 
 - publication-snapshots
   - FPWD
