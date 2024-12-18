@@ -4,9 +4,9 @@ This is a partial or pseudo-clone (for personal usage) of W3C's [**_RDF Turtle_*
 
 - publication-snapshots
   - FPWD
-    - [Overview.html](FPWD/Overview.html)
-    - [turtle-bnf.html](FPWD/turtle-bnf.html)
-    - [turtle.bnf](FPWD/turtle.bnf)
+    - [Overview.html](publication-snapshots/FPWD/Overview.html)
+    - [turtle-bnf.html](publication-snapshots/FPWD/turtle-bnf.html)
+    - [turtle.bnf](publication-snapshots/FPWD/turtle.bnf)
 - spec
   - [index.html](spec/index.html)
   - [turtle-bnf.html](spec/turtle-bnf.html)
